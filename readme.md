@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anaïs Prud'homme</h1>
-<h3 align="center">PhD Student at Laboratoire de Biométrie et Biologie Évolutive (CNRS) at Villeurbanne (Lyon, Rhône)</h3>
+<h3 align="center">PhD Student at Laboratoire de Biométrie et Biologie Évolutive (CNRS) at Villeurbanne (Lyon, Rhône, France)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanako29&label=Profile%20views&color=0e75b6&style=flat" alt="hanako29" /> </p>
 
