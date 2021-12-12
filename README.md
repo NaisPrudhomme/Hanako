@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone 🌸</h1>
-<h3 align="center">I'm Anaïs Prud'homme, <br> PhD Student at Laboratoire de Biométrie et Biologie Évolutive (CNRS)<br> Villeurbanne (Lyon, Rhône, France)</h3>
+<h3 align="center">I'm Anaïs Prud'homme, <br> PhD Student at Laboratoire de Biométrie et Biologie Évolutive (CNRS),<br> Villeurbanne (Lyon, Rhône, France)</h3>
 
 
 
