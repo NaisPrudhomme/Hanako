@@ -5,7 +5,8 @@
   
 </p>
 
-Passionate about ecology and evolutionary biology, I first did a master "Biodiversité, Écologie et Évolution" course DARWIN (evolutionary biology) at the University of Montpellier. During my second year internship, I met bioinformatics. As I already liked programming, I started a master in bioinformatics "Sciences et Numérique pour la santé" course "Bioinformatique, Connaissances, Données" in the same university. I am now in thesis at the Laboratoire de Biométrie et Biologie Évolutive (UMR CNRS 5558) of Villeurbanne in the team "Le cocon" and I work on modelling of polymorphism in phylogeny. For this, I code modules in the [Bio++ program](https://github.com/BioPP), which I will then test on simulated and real data.
+Passionate about ecology and evolutionary biology, I first did a master "Biodiversité, Écologie et Évolution" course DARWIN (evolutionary biology) at the University of Montpellier. During my second year internship, I met bioinformatics. As I already liked programming, I started a master in bioinformatics "Sciences et Numérique pour la santé" course "Bioinformatique, Connaissances, Données" in the same university. <br>
+I am now in thesis at the Laboratoire de Biométrie et Biologie Évolutive (UMR CNRS 5558) of Villeurbanne in the team "Le cocon" and I work on modelling of polymorphism in phylogeny 🦇. For this, I code modules in the [Bio++ program](https://github.com/BioPP), which I will then test on simulated and real data.
 
 - 🌱 I’m currently learning **C++**.
 
