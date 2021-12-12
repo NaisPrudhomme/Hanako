@@ -3,11 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Polymorphism in Phylogeny** and **BIO++ tool**.
+- 🔭 I’m currently working on **Polymorphism in Phylogeny**.
 
-- 🌱 I’m currently learning **C++**
-
-- 📫 How to reach me **prudhomme.anais.12@outlook.fr**
+- 🌱 I’m currently learning **C++**.
 
 
 
@@ -15,7 +13,7 @@
 <h3> Main language for my thesis :</h2>
 
 <p> 
-  <img src="https://img.shields.io/badge/C++-✦✦✧-violet?logo=C++&style=for-the-badge&color=caa6f7&logoColor=white&logoWidth=10"> 
+  <img src="https://img.shields.io/badge/C++-✦✦✦-violet?logo=C++&style=for-the-badge&color=caa6f7&logoColor=white&logoWidth=10"> 
   <img src="https://img.shields.io/badge/Bash-✦✦✧-violet?logo=GNU Bash&style=for-the-badge&color=caa6f7&logoColor=white&logoWidth=10"> 
   <img src="https://img.shields.io/badge/Git-✦✦✧-violet?logo=Git&style=for-the-badge&color=caa6f7&logoColor=white&logoWidth=10"> 
   <img src="https://img.shields.io/badge/Python-✦✦✧-violet?logo=Python&style=for-the-badge&color=caa6f7&logoColor=white&logoWidth=10"> 
