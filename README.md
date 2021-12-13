@@ -17,7 +17,7 @@ I am now in thesis at the Laboratoire de Biométrie et Biologie Évolutive (UMR 
 <h3> Main language for my thesis :</h2>
 
 <p> 
-  <img src="https://img.shields.io/badge/C++-✦✦✦-violet?logo=C++&style=for-the-badge&color=caa6f7&logoColor=white&logoWidth=10"> 
+  <img src="https://img.shields.io/badge/C++-✦✧✧-violet?logo=C++&style=for-the-badge&color=caa6f7&logoColor=white&logoWidth=10"> 
   <img src="https://img.shields.io/badge/Bash-✦✦✧-violet?logo=GNU Bash&style=for-the-badge&color=caa6f7&logoColor=white&logoWidth=10"> 
   <img src="https://img.shields.io/badge/Git-✦✦✧-violet?logo=Git&style=for-the-badge&color=caa6f7&logoColor=white&logoWidth=10"> 
   <img src="https://img.shields.io/badge/Python-✦✦✧-violet?logo=Python&style=for-the-badge&color=caa6f7&logoColor=white&logoWidth=10"> 
