@@ -36,13 +36,12 @@ I am now in thesis at the Laboratoire de Biométrie et Biologie Évolutive (UMR 
   <img src="https://img.shields.io/badge/Markdown--violet?logo=Markdown&style=flat-square&color=caa6f7&logoColor=white&logoWidth=10">
 </p>
 
-<h2> Some stats </h2>
-
-
-![Anais's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaisPrudhomme&show_icons=true&theme=material-palenight) &nbsp; &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaisPrudhomme&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<h2> Some stats </h2> 
 
 [<img align="right" src="https://img.shields.io/badge/Made with-github--readme--stats-violet?color=caa6f7&style=flat-square">](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Anais's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaisPrudhomme&show_icons=true&theme=material-palenight) &nbsp; &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaisPrudhomme&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
   
  ---
