@@ -5,7 +5,9 @@
   
 </p>
 
-Passionate about ecology and evolutionary biology, I first did a master "Biodiversité, Écologie et Évolution" course DARWIN (evolutionary biology) at the University of Montpellier. During my second year internship, I met bioinformatics. As I already liked programming, I started a master in bioinformatics "Sciences et Numérique pour la santé" course "Bioinformatique, Connaissances, Données" at the same university. <br>
+Passionate about ecology and evolutionary biology, I first did a master "Biodiversité, Écologie et Évolution" course DARWIN (evolutionary biology) at the University of Montpellier. During my second year internship, I met bioinformatics. As I already liked programming, I started a master in bioinformatics "Sciences et Numérique pour la santé" course "Bioinformatique, Connaissances, Données" at the same university. 
+
+I'm now learning project management at Studi e-learning school and working as Product Owner apprentice at Studi<br>
 
 
 <h2 align="left">Languages and Tools</h2>
